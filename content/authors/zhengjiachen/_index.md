@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: A naive starter.
 
 interests:
 - Railway
@@ -55,7 +55,7 @@ email: "10182100359@stu.ecnu.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Design Thinking OJ
+- Undergraduate
 
 ---
 
